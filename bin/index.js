@@ -6,6 +6,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
+console.log("___________________________________________")
 console.log("##   ##   ##        #####   ######  ##   ##")  
 console.log("##   ##   ##       ##       ##      ###  ##")
 console.log("## # ##   ##      ##        ##      #### ##")
