@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  },
+  "name": "wlgen",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "bin": {
+    "wlgen": "bin/index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DaneeSkripter",
+  "license": "MIT",
+  "description": "Wordlist generator based of personal information"
+}
