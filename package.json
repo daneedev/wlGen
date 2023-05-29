@@ -16,5 +16,13 @@
   "keywords": [],
   "author": "DaneeSkripter",
   "license": "MIT",
-  "description": "Wordlist generator based of personal information"
+  "description": "Wordlist generator based of personal information",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaneeSkripter/wlGen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaneeSkripter/wlGen/issues"
+  },
+  "homepage": "https://github.com/DaneeSkripter/wlGen#readme"
 }
